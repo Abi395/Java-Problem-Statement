@@ -1,3 +1,5 @@
+package day2;
+
 public class MissingInvoice {
     public static boolean isMatched(int[] arr,int temp){
         for(int hai:arr){

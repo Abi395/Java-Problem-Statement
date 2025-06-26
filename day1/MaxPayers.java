@@ -1,6 +1,8 @@
+package day1;
+
 import java.util.Scanner;
 
-public class Maxpayers {
+public class MaxPayers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double income = 0.0, firstMax = Integer.MIN_VALUE, secondMax = Integer.MIN_VALUE; 

@@ -1,7 +1,9 @@
+package day1;
+
 import java.util.Scanner;
 
-public class Deposit{
-        public static void main(String[] args) {
+public class LeastDeposit{
+    public static void main(String[] args) {
         // initialization
         int tokens = 0, cash = 0, least = Integer.MAX_VALUE;
         Scanner scanner = new Scanner(System.in);
